@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Kszyr Ver Cobrador, a web developer based on 🇵🇭 Philippines.
+## Hi there 👋 I'm Kszyr Ver Cobrador, a full-stack web artisan based on 🇵🇭 Philippines.
 
 ### 🚀 What I'm currently Working
 
