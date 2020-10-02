@@ -47,6 +47,7 @@
 ### 🌴 Fun facts
 
 - I love hiking ❤️
+- Currently learning free diving 🥽
 
 ### 🌟 Coding Stats
 
