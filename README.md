@@ -7,16 +7,21 @@
 ### ✔️ I'm currently learning
 
 - NodeJs with NestJs
-- AWS stack (Elastic Beanstalk, Fargate, CodeCommit, CodeDeploy, etc...)
+- AWS stack (Fargate, CodeCommit, CodeDeploy, etc...)
 
-### ⚒️ Languages and Tools
-
+### ⚒️ Languages, Framework, Services and Tools
+- PHP
+- JavaScript
+- TypeScript
+- CSS (Saas, Less, Stylus)
 - Laravel
 - VueJs
 - VuetifyJs
+- Git
 - Docker
-- Firebase
-- Google Cloud Stack (AppEngine, CloudRun, etc...)
+- Google Cloud Stack (AppEngine, CloudRun, Firebase)
+- AWS Stack (ElasticBeanstalk, Lambda, Amplify, Aurora Database, S3, EC2, ELB ...)
+
 
 ### 🗃 Projects I've been part of
 
