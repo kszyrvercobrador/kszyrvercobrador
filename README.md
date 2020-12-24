@@ -59,7 +59,7 @@
 <!-- WakaTime Stats -->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-413231%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -90,11 +90,11 @@ Sunday       10 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-PHP                      2 hrs 5 mins        ███████████████░░░░░░░░░░   61.84% 
-Blade Template           1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   38.16%
+PHP                      1 hr 48 mins        ██████████████░░░░░░░░░░░   58.3% 
+Blade Template           1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   41.7%
 
 💻 Operating System: 
-Mac                      3 hrs 23 mins       █████████████████████████   100.0%
+Mac                      3 hrs 5 mins        █████████████████████████   100.0%
 
 ```
 
