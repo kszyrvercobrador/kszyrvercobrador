@@ -90,10 +90,10 @@ Sunday       10 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-PHP                      20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
