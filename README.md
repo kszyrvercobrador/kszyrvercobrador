@@ -25,7 +25,6 @@
 
 ### 🗃 Projects I've been part of
 
-- 
 - <a href="https://perfectcircles.com.au/" target="_blank">Perfect Circles™</a>
 
   - ℹ️ A system which connects project managers, building managers and contractors who service the buildings for jobs.
