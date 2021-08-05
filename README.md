@@ -25,6 +25,13 @@
 
 ### 🗃 Projects I've been part of
 
+- 
+- <a href="https://perfectcircles.com.au/" target="_blank">Perfect Circles™</a>
+
+  - ℹ️ A system which connects project managers, building managers and contractors who service the buildings for jobs.
+  - 👨‍💻 Web Developer
+  - 📦 Laravel, VueJs, Amazon Web Services
+
 - <a href="https://appetiser.com.au/portfolio/barbcare" target="_blank">Barbcare</a>
 
   - ℹ️ A system which establishes trusting relationships between professionals, who operate in Aged Care facilities and Community Centres, with their clients and their families.
