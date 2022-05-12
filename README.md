@@ -65,7 +65,7 @@
 <!-- WakaTime Stats -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-499%20Thousand%20lines%20of%20code-blue)
 
@@ -98,10 +98,10 @@ Sunday       33 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-PHP                      13 hrs 2 mins       █████████████████████████   100.0%
+PHP                      20 hrs 1 min        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      13 hrs 2 mins       █████████████████████████   100.0%
+Mac                      20 hrs 1 min        █████████████████████████   100.0%
 
 ```
 
@@ -118,5 +118,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 03:06:40 UTC
+ Last Updated on 12/05/2022 03:01:26 UTC
 <!--END_SECTION:waka-->
