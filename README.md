@@ -98,11 +98,10 @@ Sunday       35 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-PHP                      2 hrs 32 mins       ███████████████████████░░   94.09% 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.91%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 41 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -119,5 +118,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2022 03:24:13 UTC
+ Last Updated on 20/06/2022 03:02:13 UTC
 <!--END_SECTION:waka-->
