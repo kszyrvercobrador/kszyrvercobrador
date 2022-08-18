@@ -65,7 +65,7 @@
 <!-- WakaTime Stats -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-498%20Thousand%20lines%20of%20code-blue)
 
@@ -118,5 +118,5 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2022 03:37:17 UTC
+ Last Updated on 18/08/2022 03:39:01 UTC
 <!--END_SECTION:waka-->
