@@ -105,15 +105,15 @@ No Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      23 repos            ███████████░░░░░░░░░░░░░░   44.23 % 
-Vue                      15 repos            ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+PHP                      22 repos            ███████████░░░░░░░░░░░░░░   43.14 % 
+Vue                      15 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
 
 
- Last Updated on 12/11/2023 01:34:35 UTC
+ Last Updated on 13/11/2023 01:32:48 UTC
 <!--END_SECTION:waka-->
