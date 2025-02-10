@@ -54,8 +54,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kszyrvercobrador&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="172" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kszyrvercobrador&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="172" alt="streak graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kszyrvercobrador/kszyrvercobrador/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kszyrvercobrador/kszyrvercobrador/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/kszyrvercobrador/kszyrvercobrador/output/github-snake.svg" />
+  </picture>
 </div>
 
 ###
@@ -163,9 +166,3 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kszyrvercobrador/kszyrvercobrador/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kszyrvercobrador/kszyrvercobrador/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kszyrvercobrador/kszyrvercobrador/output/github-snake.svg" />
-</picture>
