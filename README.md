@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="center">Hi there 👋 I'm Ver, a full-stack web developer from Davao City, 🇵🇭 Philippines.</h2>
+<h2 align="center">Hi there 👋 I'm Ver, a full-stack web developer from Davao City, Philippines 🇵🇭.</h2>
 
 ###
 
