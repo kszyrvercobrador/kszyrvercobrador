@@ -1,27 +1,70 @@
-## Hi there 👋 I'm Kszyr Ver Cobrador, a full-stack web artisan based on 🇵🇭 Philippines.
+<div style="max-width: 1200px">
+<div align="center">
+  <img width="1200px" src="https://raw.githubusercontent.com/kszyrvercobrador/kszyrvercobrador/91695345b3483484802bc7dd0a0a1b4297c8dcd2/images/banner.png"  />
+</div>
 
-### 🚀 What I'm currently Working
+###
 
-- I'm currently working on Job Management System as a full-stack developer using Laravel and VueJs with NuxtJs framework.
+<h2 align="center">Hi there 👋 I'm Ver, a full-stack web developer from Davao City, 🇵🇭 Philippines.</h2>
 
-### ✔️ I'm currently learning
+###
 
-- NodeJs with NestJs
-- AWS stack (Fargate, CodeCommit, CodeDeploy, etc...)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="30" alt="adonisjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-### ⚒️ Languages, Framework, Services and Tools
-- PHP
-- JavaScript
-- TypeScript
-- CSS (Saas, Less, Stylus)
-- Laravel
-- VueJs
-- VuetifyJs
-- Git
-- Docker
-- Google Cloud Stack (AppEngine, CloudRun, Firebase)
-- AWS Stack (ElasticBeanstalk, Lambda, Amplify, Aurora Database, S3, EC2, ELB ...)
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kszyrvercobrador/kszyrvercobrador/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kszyrvercobrador&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="172" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=kszyrvercobrador&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="172" alt="streak graph"  />
+</div>
+
+###
 
 ### 🗃 Projects I've been part of
 
@@ -117,3 +160,11 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
  Last Updated on 05/10/2024 01:38:48 UTC
 <!--END_SECTION:waka-->
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kszyrvercobrador/kszyrvercobrador/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kszyrvercobrador/kszyrvercobrador/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kszyrvercobrador/kszyrvercobrador/output/github-snake.svg" />
+</picture>
