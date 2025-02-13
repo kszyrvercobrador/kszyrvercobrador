@@ -9,6 +9,10 @@
 
 ###
 
+<h3 align="center">💻 Tech stack I code with</h3>
+  
+</div>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
@@ -59,13 +63,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kszyrvercobrador/kszyrvercobrador/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/kszyrvercobrador/kszyrvercobrador/output/github-snake.svg" />
   </picture>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kszyrvercobrador&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="140" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kszyrvercobrador&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
 </div>
 
 ###
