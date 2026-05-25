@@ -109,6 +109,8 @@
 <!-- WakaTime Stats -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%2056%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.32%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in PHP** 
@@ -124,7 +126,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2026 01:51:22 UTC
+ Last Updated on 25/05/2026 01:53:21 UTC
 <!--END_SECTION:waka-->
 
 </div>
