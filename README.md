@@ -5,7 +5,15 @@
 
 ###
 
-<h2 align="center">Hi there 👋 I'm Ver, a full-stack web developer from Davao City, Philippines 🇵🇭.</h2>
+<h2 align="center">Hi there 👋 I'm Ver, a Senior Full-Stack Developer from Davao City, Philippines 🇵🇭.</h2>
+
+<p align="center">A full-stack developer with a decade spent shipping production web applications across marketplace, SaaS, and fitness industries, leading backend architecture and the engineering standards teams build on.</p>
+
+<p align="center">
+  <a href="https://kszyrver.dev" target="_blank">🌐 kszyrver.dev</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:contact@kszyrver.dev">📧 contact@kszyrver.dev</a>
+</p>
 
 ###
 
@@ -22,37 +30,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="30" alt="adonisjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
@@ -69,35 +65,41 @@
 
 ### 🗃 Projects I've been part of
 
-- <a href="https://perfectcircles.com.au/" target="_blank">Perfect Circles™</a>
+- <a href="https://rarebody.com.au/" target="_blank">RareBody</a>
 
-  - ℹ️ A system which connects project managers, building managers and contractors who service the buildings for jobs.
+  - ℹ️ A fitness and wellness platform around workout programs, meal planning and health tracking, serving 130k+ signed-up users
+  - 👨‍💻 Backend Lead
+  - 📦 Laravel, VueJs, Stripe, App/Play IAP
+
+- <a href="https://saltdiary.com/" target="_blank">SaltDiary</a>
+
+  - ℹ️ A fishing journal app for logging catches, trips, and the conditions around them, with AI fish species identification and marine data pipelines
+  - 👨‍💻 Backend Lead
+  - 📦 Laravel, VueJs, Google Gemini, StormGlass, Copernicus
+
+- SupplyBridge
+
+  - ℹ️ A B2B marketplace for industrial materials connecting buyers with suppliers, with RFQ flows and supplier onboarding
+  - 👨‍💻 Backend Lead
+  - 📦 Laravel, VueJs
+
+- WeCollect
+
+  - ℹ️ A marketplace for collectors and sellers to trade and discover collectibles
+  - 👨‍💻 Backend Lead
+  - 📦 Laravel, VueJs, Stripe Connect
+
+- <a href="https://perfectcircles.com.au/" target="_blank">PerfectCircles™</a>
+
+  - ℹ️ A project and job management SaaS with AI-powered asset management and warehouse location tracking
   - 👨‍💻 Web Developer
   - 📦 Laravel, VueJs, Amazon Web Services
 
-- <a href="https://appetiser.com.au/portfolio/barbcare" target="_blank">Barbcare</a>
-
-  - ℹ️ A system which establishes trusting relationships between professionals, who operate in Aged Care facilities and Community Centres, with their clients and their families.
-  - 👨‍💻 Web Developer
-  - 📦 Laravel, VueJs, DigitalOcean
-
 - Appetiser Baseplate
 
-  - ℹ️ An Initial Laravel Scaffolding for all projects in Appetiser company that includes core features and design patterns which the company follows.
+  - ℹ️ An internal Laravel starter platform for standardizing engineering patterns, with core modules for authentication, payments, subscriptions, role management and admin CMS
   - 👨‍💻 Web Developer
   - 📦 Laravel, VueJs, Docker
-
-- <a href="https://peoplewave.co" target="_blank">Peoplewave ERM</a>
-
-  - ℹ️ An ERM (Employee Relationship Management) system for small to medium size organizations
-  - 👨‍💻 Full-stack Developer
-  - 📦 Laravel, VueJs, AWS
-
-- <a href="https://www.posbang.com/garment-erp" target="_blank">HubShake ERP</a>
-
-  - ℹ️ An ERP system for Garment Manufacturing
-  - 👨‍💻 Project Lead
-  - 📦 Laravel, VueJs, AWS
 
 ### 🌴 Fun facts
 
