@@ -111,16 +111,16 @@
 <!-- WakaTime Stats -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C237%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C240%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.68%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3838 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+🌞 Morning                3839 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
 🌆 Daytime                7251 commits        ██████████░░░░░░░░░░░░░░░   38.65 % 
 🌃 Evening                7069 commits        █████████░░░░░░░░░░░░░░░░   37.68 % 
 🌙 Night                  602 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
@@ -130,7 +130,7 @@
 ```text
 Monday                   2015 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
 Tuesday                  3874 commits        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Wednesday                2988 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Wednesday                2989 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
 Thursday                 3225 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
 Friday                   2242 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 Saturday                 2812 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
@@ -144,35 +144,38 @@ Sunday                   1604 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-PHP                      3 hrs 28 mins       ████████████░░░░░░░░░░░░░   47.05 % 
-Other                    1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-TypeScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Vue                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+PHP                      4 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.97 % 
+Markdown                 4 hrs               ████████░░░░░░░░░░░░░░░░░   33.89 % 
+Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Diff                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 💻 Operating System: 
-Mac                      7 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 59 mins (94.68%)
+⏱ AI Coding Time: 11 hrs 7 mins (96.67%)
 
-✍️ 4,925 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 17,232 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,834,732 Input Tokens, 530,031 Output Tokens
+🔤 6,909,733 Input Tokens, 975,797 Output Tokens
 
-💵 $76.82 Estimated AI Cost This Week
+💵 $159.22 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 80 AI Prompts
+🧠 17 AI Sessions, 152 AI Prompts
 
-Opus                     4,932 lines         █████████████████████████   100.00 % 
+Opus                     9,756 lines         ██████████████░░░░░░░░░░░   56.37 % 
+Sonnet                   6,612 lines         ██████████░░░░░░░░░░░░░░░   38.20 % 
+GPT                      581 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Haiku                    358 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,203 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 3,017 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -189,7 +192,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 06:05:02 UTC
+ Last Updated on 23/09/2026 05:46:28 UTC
 <!--END_SECTION:waka-->
 
 </div>
